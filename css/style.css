@@ -4794,7 +4794,7 @@ html {
 .slide2_title::before,.slide2_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eye.svg');
+  background-image: url('../img/eye.png');
   background-repeat: none;
   width: auto;
   height: 35px;
@@ -4811,7 +4811,7 @@ html {
 .slide3_title::before,.slide3_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eye.svg');
+  background-image: url('../img/eye.png');
   background-repeat: none;
   width: auto;
   height: 35px;
@@ -4822,7 +4822,7 @@ html {
 .slide4_title::before,.slide4_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eyeW.svg');
+  background-image: url('../img/eyeW.png');
   background-repeat: none;
   width: auto;
   height: 35px;
@@ -4833,7 +4833,7 @@ html {
 .slide5_title::before,.slide5_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eyeW.svg');
+  background-image: url('../img/eyeW.png');
   background-repeat: none;
   width: auto;
   height: 35px;
@@ -4844,7 +4844,7 @@ html {
 .slide6_title::before,.slide6_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eyeW.svg');
+  background-image: url('../img/eyeW.png');
   background-repeat: none;
   width: auto;
   height: 35px;
@@ -4855,7 +4855,7 @@ html {
 .slide7_title::before,.slide7_title::after{
   content:'';
   display: inline-block;
-  background-image: url('../img/eyeW.svg');
+  background-image: url('../img/eyeW.png');
   background-repeat: none;
   width: auto;
   height: 35px;
