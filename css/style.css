@@ -4802,6 +4802,11 @@ html {
   margin-right: 20px;
 }
 
+.heh{
+  width: 30%;
+  height: auto;
+}
+
 .slide3_title::before,.slide3_title::after{
   content:'';
   display: inline-block;
