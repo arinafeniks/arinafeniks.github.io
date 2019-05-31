@@ -4805,6 +4805,7 @@ html {
 .heh{
   width: 30%;
   height: auto;
+  display: flex;
 }
 
 .slide3_title::before,.slide3_title::after{
