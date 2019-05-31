@@ -4796,7 +4796,7 @@ html {
   display: inline-block;
   background-image: url('../img/eye.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 20px;
   margin-right: 20px;
@@ -4813,7 +4813,7 @@ html {
   display: inline-block;
   background-image: url('../img/eye.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 20px;
   margin-right: 20px;
@@ -4824,7 +4824,7 @@ html {
   display: inline-block;
   background-image: url('../img/eyeW.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 20px;
   margin-right: 20px;
@@ -4835,7 +4835,7 @@ html {
   display: inline-block;
   background-image: url('../img/eyeW.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 20px;
   margin-right: 20px;
@@ -4846,7 +4846,7 @@ html {
   display: inline-block;
   background-image: url('../img/eyeW.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 50px;
   margin-right: 20px;
@@ -4857,7 +4857,7 @@ html {
   display: inline-block;
   background-image: url('../img/eyeW.png');
   background-repeat: no-repeat;
-  width: auto;
+  width: 100px;
   height: 50px;
   margin-left: 20px;
   margin-right: 20px;
