@@ -4795,7 +4795,7 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eye.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
   height: 50px;
   margin-left: 20px;
@@ -4812,7 +4812,7 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eye.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
   height: 50px;
   margin-left: 20px;
@@ -4823,7 +4823,7 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eyeW.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
   height: 50px;
   margin-left: 20px;
@@ -4834,7 +4834,7 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eyeW.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
   height: 50px;
   margin-left: 20px;
@@ -4845,9 +4845,9 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eyeW.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
-  height: 35px;
+  height: 50px;
   margin-left: 50px;
   margin-right: 20px;
 }
@@ -4856,7 +4856,7 @@ html {
   content:'';
   display: inline-block;
   background-image: url('../img/eyeW.png');
-  background-repeat: none;
+  background-repeat: no-repeat;
   width: auto;
   height: 50px;
   margin-left: 20px;
@@ -4865,7 +4865,7 @@ html {
 
 .net_icon{
   width: auto;
-  height: 35px;
+  height: 50px;
   margin-left: 16px;
 }
 
