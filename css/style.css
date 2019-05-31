@@ -277,6 +277,14 @@ a{
   text-align: center;
 }
 
+.icon{
+  list-style: none;
+  height: 35px;
+  width: auto;
+  align-self: flex-start;
+  margin-left: 10px;
+}
+
 a.nav {
   text-decoration: none;
   color: #000000;
